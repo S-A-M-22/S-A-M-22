@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SAMIKSHA.
 - 👀 I’m interested in Animes, Manwhas and Basketball.
-- 🌱 I’m currently learning Python.
+- 🌱 Proficient in Python, Java, C, HTML+CSS/JS, PostgreSQL/SQL. Plus well-versed in Machine Learning, RStudio, LaTeX, Web-Dev (MEAN stack using React)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
