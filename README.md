@@ -18,7 +18,6 @@
     - RESTful API
     - Tailwind CSS
    
-- 👀 I’m interested in Animes, Manwhas and Basketball.
 - 📫 Open to work! Reach me via Gmail :)
 
 <!---
