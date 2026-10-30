@@ -6,6 +6,7 @@
   - HTML5+CSS/JS
   - PostgreSQL/SQL
   - Machine Learning
+  - Deep Learning
   - RStudio
   - LaTeX
   - Web-Dev (MEAN/MERN stack, Single-Page Architecture (SPA), MVC & MVT architectures) via
