@@ -11,7 +11,7 @@
   - Web-Dev (MEAN/MERN stack, Single-Page Architecture (SPA), MVC & MVT architectures) via
     - TypeScript
     - React
-    - Djamgo
+    - Django
     - SpringBoot
     - builders like Vite
     - AJAX
