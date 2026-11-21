@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/marauders-map-banner.png" width="100%"/>
+<!-- <img src="./assets/marauders-map-banner.png" width="100%"/> -->
 
 # ⚡ Samiksha Aveg
 
 ### 🦉 Software Engineer • AI/VR Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=Mischief+Managed+⚡;Building+Intelligent+Systems;Teaching+Machines+to+Think;Creating+Immersive+VR+Experiences;AI+|+ML+|+Full-Stack+|+XR"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&lines=Mischief+Managed+⚡;Building+Intelligent+Systems;Teaching+Machines+to+Think;Creating+Immersive+VR+Experiences;AI+|+ML+|+Full-Stack+|+XR"/> -->
 
 </div>
 
@@ -14,7 +14,7 @@
 
 # 📜 About Me
 
-🪄 Computer Science graduate passionate about building intelligent systems and immersive experiences.
+👩‍💻 Software Engineering graduate passionate about building intelligent systems and immersive experiences.
 
 ⚡ Interests include:
 
@@ -117,15 +117,15 @@
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samiksha-aveg-a74631225/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=googlechrome&logoColor=white)](https://s-a-m-22.github.io/Portfolio-Website/)
 
 ---
 
 <div align="center">
 
-<img src="./assets/mischief-managed-footer.png" width="800"/>
+<!-- <img src="./assets/mischief-managed-footer.png" width="800"/> -->
 
 # ⚡ Mischief Managed!
 
