@@ -99,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/S-A-M-22/S-A-M-22/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/S-A-M-22/S-A-M-22/output/github-snake.svg" />
 
 </div>
 
