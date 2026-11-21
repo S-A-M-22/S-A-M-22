@@ -97,7 +97,16 @@
 
 # 🐍 Chamber of Secrets
 
+<!-- <div align="center">
+
+<img src="https://raw.githubusercontent.com/S-A-M-22/S-A-M-22/output/github-snake.svg" />
+
+</div> -->
+
 <div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=S-A-M-22&theme=tokyonight&hide_border=true" />
+*<br><br>
 
 <img src="https://raw.githubusercontent.com/S-A-M-22/S-A-M-22/output/github-snake.svg" />
 
